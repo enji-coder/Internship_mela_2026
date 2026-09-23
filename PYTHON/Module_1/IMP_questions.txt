@@ -1,0 +1,25 @@
+1. Write a Python program to find the "factorial of a number".
+2. Write a Python program to check whether a "string is a palindrome".
+3. Write a Python program to print the "Fibonacci series" up to `n` terms.
+4. Write a Python program to check whether a "number is prime".
+5. Write a Python program to check whether a "number is a palindrome".
+6. Write a Python program to "reverse a number".
+7. Write a Python program to "count the number of digits" in a number.
+8. Write a Python program to find the "sum of digits of a number".
+9. Write a Python program to check whether a number is an "Armstrong number".
+10. Write a Python program to find the "largest among three numbers".
+11. Write a Python program to find the "smallest among three numbers".
+12. Write a Python program to check whether a number is "even or odd".
+13. Write a Python program to print all "prime numbers between 1 and 100".
+14. Write a Python program to print all "even numbers between 1 and 100".
+15. Write a Python program to print all "odd numbers between 1 and 100".
+16. Write a Python program to find the "sum of numbers from 1 to n".
+17. Write a Python program to print the "multiplication table" of a given number.
+18. Write a Python program to "count the number of vowels in a string".
+19. Write a Python program to "count the number of consonants in a string".
+20. Write a Python program to "count the number of characters in a string".
+21. Write a Python program to "reverse a string without using a built-in reverse function".
+22. Write a Python program to check whether a string contains "only digits".
+23. Write a Python program to find the "frequency of a particular character" in a string.
+24. Write a Python program to "remove spaces from a string".
+25. Write a Python program to check whether two strings are "anagrams of each other".
